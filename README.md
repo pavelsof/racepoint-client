@@ -25,6 +25,14 @@ Workflow
 ---
 `grunt serve` does `grunt build` and then starts a connect server on localhost:9000.
 
+`karma start test/karma.js` starts the unit test watch.
+
+Contributing
+---
+Pull requests are welcome. Stuff we need:
+* More unit tests.
+* E2E tests.
+
 Licence
 ---
 Racepoint is published under the [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
