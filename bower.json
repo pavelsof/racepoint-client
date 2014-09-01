@@ -1,0 +1,11 @@
+{
+  "name": "racepoint",
+  "dependencies": {
+    "angular": "~1.2.23",
+    "angular-route": "~1.2.23",
+    "ratchet": "twbs/ratchet#~2.0.2"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.23"
+  }
+}
